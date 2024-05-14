@@ -1,5 +1,3 @@
-Claro, aqui está um exemplo de como você pode criar um README para o GitHub descrevendo como executar os testes:
-
 ---
 
 # CustomStack - Testes de Unidade
