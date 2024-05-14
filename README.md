@@ -13,7 +13,7 @@ Certifique-se de ter Python 3.x instalado em seu sistema.
 1. Clone este repositório em seu sistema local:
 
 ```
-git clone https://github.com/seu-usuario/custom-stack.git
+git clone https://github.com/rafawaltrick/Exerc-cio-Pr-tico---Mock-Object/tree/main
 ```
 
 2. Navegue até o diretório do projeto:
